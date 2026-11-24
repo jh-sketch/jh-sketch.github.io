@@ -35,9 +35,19 @@ For my CS 499 Capstone, I enhanced the application by implementing centralized A
 
 ### CS 370 – Pirate Intelligent Agent
 
-Algorithms and Data Structures Enhancement
 
+**Algorithms and Data Structures Enhancement**
 
+The Pirate Intelligent Agent was originally developed during CS 370, where I implemented deep Q-learning to train an intelligent agent to navigate a maze and locate treasure.
+
+For my CS 499 Capstone, I enhanced the project by implementing the A* pathfinding algorithm. This enhancement allows the agent to calculate efficient routes to the treasure using a heuristic-based search algorithm.
+
+I also added automated tests to verify the algorithm's reliability, including tests for blocked starting positions, valid movements, unreachable destinations, and successful navigation from multiple starting locations.
+
+**Project Artifacts:**
+
+- [Original Pirate Intelligent Agent](https://github.com/jh-sketch/jh-sketch.github.io/tree/main/artifacts/algorithms-data-structures/original)
+- [Enhanced Pirate Intelligent Agent](https://github.com/jh-sketch/jh-sketch.github.io/tree/main/artifacts/algorithms-data-structures/enhanced)
 - [Software Engineering Enhancement Narrative](narratives/software-engineering.html)
 
 

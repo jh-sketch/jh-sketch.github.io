@@ -17,7 +17,7 @@ Software Engineering and Database Enhancements
 Algorithms and Data Structures Enhancement
 
 ## Code Review
-{% include youtubePlayer.html %}
+{% includes youtubePlayer.html %}
 
 https://youtu.be/6hAjmtQcRDk
 

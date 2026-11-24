@@ -16,8 +16,6 @@ Software Engineering and Database Enhancements
 ### CS 370 – Pirate Intelligent Agent
 Algorithms and Data Structures Enhancement
 
-# Computer Science ePortfolio
-
 ## Code Review
 
 This code review examines my Travlr Getaways application, including its existing functionality, architecture, API routes, and opportunities for improvement.

@@ -19,9 +19,19 @@ This video is part of my Computer Science Capstone (CS 499) at Southern New Hamp
 Technologies: JavaScript, Node.js, Express, Angular, MongoDB, Mongoose, and JWT Authentication.
 ## Selected Projects
 
-### CS 465 – Travlr Full-Stack Application
 
-Software Engineering and Database Enhancements
+### CS 465 – Travlr Getaways
+
+**Software Design and Engineering Enhancement**
+
+Travlr Getaways is a full-stack travel application developed using Node.js, Express, Angular, MongoDB, and Mongoose.
+
+For my CS 499 Capstone, I enhanced the application by implementing centralized API error handling, improving error responses, and increasing the reliability and maintainability of the code.
+
+**Project Artifacts:**
+
+- [Original Travlr Getaways](https://github.com/jh-sketch/jh-sketch.github.io/tree/main/artifacts/software-engineering/original)
+- [Enhanced Travlr Getaways](https://github.com/jh-sketch/jh-sketch.github.io/tree/main/artifacts/software-engineering/enhanced)
 
 ### CS 370 – Pirate Intelligent Agent
 

@@ -17,6 +17,9 @@ Software Engineering and Database Enhancements
 Algorithms and Data Structures Enhancement
 
 ## Code Review
+{% includes youtubePlayer.html id="R-LgH3tQfUY" %}
+[Video Link]([https://www.youtube.com/watch?v=R-LgH3tQfUY](https://youtu.be/6hAjmtQcRDk))
+
 https://youtu.be/6hAjmtQcRDk
 
 This video is part of my Computer Science Capstone (CS 499) at Southern New Hampshire University. In this code review, I examine my Travlr Getaways application, a full-stack web application I developed during CS 465 Full Stack Development I. I walk through the application's existing functionality, including its structure, database connections, API routes, and authentication. I also identify areas that could be improved, particularly error handling, code organization, security, and overall reliability.

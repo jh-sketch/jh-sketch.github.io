@@ -14,12 +14,12 @@ I am completing my Bachelor of Science in Computer Science with a concentration 
 
 ### CS 499 – Computer Science Capstone
 
-This code review examines my Travlr Getaways full-stack application, originally developed during CS 465.
-
-I review the application's existing functionality, code structure, API routes, database connections, and authentication. I also discuss areas for improvement, including error handling, security, and maintainability.
 
 {% include youtubePlayer.html %}
 
+This video is part of my Computer Science Capstone (CS 499) at Southern New Hampshire University. In this code review, I examine my Travlr Getaways application, a full-stack web application I developed during CS 465 Full Stack Development I. I walk through the application's existing functionality, including its structure, database connections, API routes, and authentication. I also identify areas that could be improved, particularly error handling, code organization, security, and overall reliability.
+
+Technologies: JavaScript, Node.js, Express, Angular, MongoDB, Mongoose, and JWT Authentication.
 ## Selected Projects
 
 ### CS 465 – Travlr Full-Stack Application

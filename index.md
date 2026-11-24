@@ -30,8 +30,4 @@ Software Engineering and Database Enhancements
 
 Algorithms and Data Structures Enhancement
 
-## Code Review
 
-This code review examines my Travlr Getaways application, including its existing functionality, architecture, API routes, and opportunities for improvement.
-
-{% include youtubePlayer.html %}

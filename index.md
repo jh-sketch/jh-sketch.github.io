@@ -38,3 +38,7 @@ For my CS 499 Capstone, I enhanced the application by implementing centralized A
 Algorithms and Data Structures Enhancement
 
 
+- [Software Engineering Enhancement Narrative](narratives/software-engineering.html)
+
+
+

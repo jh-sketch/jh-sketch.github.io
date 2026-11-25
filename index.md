@@ -5,7 +5,26 @@
 
 Welcome to my Southern New Hampshire University Computer Science ePortfolio.
 
-I am completing my Bachelor of Science in Computer Science with a concentration in Software Development.
+I am completing my Bachelor of Science in Computer Science
+with a concentration in Software Development at Southern
+New Hampshire University.
+
+My background includes extensive experience in automotive
+technology, troubleshooting, and problem-solving. Throughout
+my computer science program, I have developed skills in
+full-stack development, databases, algorithms, artificial
+intelligence, and secure software design.
+
+This portfolio showcases my technical projects, the
+enhancements I implemented, and my growth as a
+computer science professional.
+
+
+### Explore My Portfolio
+
+[About Me](#about-me) |
+[Projects](#featured-projects) |
+[Code Review](#code-review)
 
 ## Code Review
 
